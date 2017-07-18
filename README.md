@@ -13,3 +13,7 @@ https://gist.github.com/subTee/c34d0499e232c1501ff9f0a8dd302cbd
 **Goal:**
 
 Execute shellcode from XSLT file
+
+More details：
+
+https://3gstudent.github.io/3gstudent.github.io/Study-Notes-Weekly-No.4(Use-tracker-to-load-dll-&-Use-csi-to-bypass-UMCI-&-Execute-C-from-XSLT-file)/
