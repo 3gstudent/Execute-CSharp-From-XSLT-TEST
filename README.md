@@ -16,4 +16,4 @@ Execute shellcode from XSLT file
 
 More details：
 
-https://3gstudent.github.io/3gstudent.github.io/Study-Notes-Weekly-No.4(Use-tracker-to-load-dll-&-Use-csi-to-bypass-UMCI-&-Execute-C-from-XSLT-file)/
+https://3gstudent.github.io/Study-Notes-Weekly-No.4(Use-tracker-to-load-dll-&-Use-csi-to-bypass-UMCI-&-Execute-C-from-XSLT-file)
